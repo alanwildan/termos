@@ -1,2 +1,1 @@
-# termos
-tes commit lewat termux
+lu bilek
